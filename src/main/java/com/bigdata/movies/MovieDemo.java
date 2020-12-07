@@ -36,6 +36,6 @@ public class MovieDemo {
 
         boolean completion = job.waitForCompletion(true);
         System.out.println(completion);
-
+        System.out.println("git test");
     }
 }
