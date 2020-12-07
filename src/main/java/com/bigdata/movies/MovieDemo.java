@@ -36,6 +36,7 @@ public class MovieDemo {
 
         boolean completion = job.waitForCompletion(true);
         System.out.println(completion);
+//        ctrl+shift+k 将更新的代码上传到远端 github仓库
         System.out.println("git test");
     }
 }
